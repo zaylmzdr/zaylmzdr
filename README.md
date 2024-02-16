@@ -6,7 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zaylmzdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaylmzdr" height="30" width="40" /></a>
-<a href="https://instagram.com/zaylmzdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaylmzdr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zemzemaylmzdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zemzemaylmzdr" height="30" width="40" /></a>
 </p>
 
