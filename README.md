@@ -1,4 +1,3 @@
-User
 <h1 align="center">Hi 👋, I'm Zemzem</h1>
 <h3 align="center">I am a second-year student in Computer Engineering.</h3>
 
