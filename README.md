@@ -33,7 +33,7 @@ Kamera görüntüsü üzerinden anlık duygu durumu tespiti yapan bilgisayarlı 
 
 #### 💬 Firebase Tabanlı Mesajlaşma Uygulaması
 Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
-`Android` `Java/Kotlin` `Firebase`
+`Android` `Java` `Firebase` `SQL`
 
 ---
 
