@@ -62,19 +62,10 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eposta@ornek.com">
