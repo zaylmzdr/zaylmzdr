@@ -13,7 +13,7 @@
 - 🔍 Python + Pytest + Requests ile **API Test Otomasyonu** projesi geliştiriyorum
 - 🤖 Yapay zeka destekli sistemler üzerine (multi-agent mimariler, LLM entegrasyonları) çalışmalar yapıyorum
 - 📜 **ISTQB Foundation Level** sertifikasyonuna hazırlanıyorum
-- 🚀 Hem **QA / Test Automation Engineer** hem de **AI/ML Engineer** pozisyonları için fırsat arıyorum
+- 🚀 **QA / Test Automation Engineer** - **AI/ML Engineer** pozisyonları için fırsat arıyorum
 
 ---
 
@@ -50,8 +50,6 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 **Diller**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **AI / ML Framework & Kütüphaneler**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
