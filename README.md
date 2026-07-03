@@ -14,7 +14,7 @@
 - 🔍 Python + Pytest + Requests ile **API Test Otomasyonu** projesi geliştiriyorum
 - 🤖 Yapay zeka destekli sistemler üzerine (multi-agent mimariler, LLM entegrasyonları) çalışmalar yapıyorum
 - 📜 **ISTQB Foundation Level** sertifikasyonuna hazırlanıyorum
-- 🚀 Hem **QA / Test Automation Engineer** hem de **AI/ML Engineer** pozisyonları için fırsat arıyorum
+- 🚀 **QA / Test Automation Engineer** - **AI/ML Engineer** pozisyonları için fırsat arıyorum
 
 ---
 
