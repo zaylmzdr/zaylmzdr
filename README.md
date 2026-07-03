@@ -12,7 +12,7 @@
 ### 🎯 Şu An Üzerinde Çalıştığım Konular
 - 🔍 Python + Pytest + Requests ile **API Test Otomasyonu** projesi geliştiriyorum
 - 📜 **ISTQB Foundation Level** sertifikasyonuna hazırlanıyorum
-- 🚀 QA / Test Automation Engineer pozisyonları için fırsat arıyorum (Fintech & SaaS odaklı)
+- 🚀 QA / Test Automation ve AI Engineer pozisyonları için fırsat arıyorum
 
 ---
 
