@@ -1,6 +1,6 @@
 # zaylmzdr
 <h1 align="center">Merhaba, Ben Zemzem 👋</h1>
-<h3 align="center">QA & Test Automation Engineer | Software Engineer</h3>
+<h3 align="center">QA & Test Automation Engineer | Software Engineer | AI & ML Meraklısı </h3>
 
 <p align="center">
   Bilgisayar Mühendisliği mezunu, yazılım kalitesi ve test otomasyonu üzerine uzmanlaşmaya odaklanan bir mühendisim.
