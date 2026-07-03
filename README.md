@@ -65,10 +65,6 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 ### 📫 İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/zaylmzdr in/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:eposta@ornek.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
