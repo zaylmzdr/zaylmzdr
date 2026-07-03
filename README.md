@@ -68,15 +68,9 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 
 ---
 
-### 🔗 QA × AI Kesişimi
-Bu iki alanı bir araya getirmeye özellikle önem veriyorum:
-- LLM tabanlı sistemlerin test edilmesi (prompt/response doğrulama, çıktı tutarlılığı)
-- AI destekli test senaryosu üretimi
-- Otomatik hata analizi için makine öğrenmesi tabanlı yaklaşımlar
+### 📫 İletişim
 
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="
+<p align="left">
+  <a href="https://linkedin.com/in/zaylmzdr" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
