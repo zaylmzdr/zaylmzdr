@@ -14,7 +14,7 @@
 - 🔍 Python + Pytest + Requests ile **API Test Otomasyonu** projesi geliştiriyorum
 - 🤖 Yapay zeka destekli sistemler üzerine (multi-agent mimariler, LLM entegrasyonları) çalışmalar yapıyorum
 - 📜 **ISTQB Foundation Level** sertifikasyonuna hazırlanıyorum
-- 🚀 **QA / Test Automation Engineer** - **AI/ML Engineer** pozisyonları için fırsat arıyorum
+- 🚀 Hem **QA / Test Automation Engineer** hem de **AI/ML Engineer** pozisyonları için fırsat arıyorum
 
 ---
 
@@ -53,6 +53,8 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 **Diller**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Framework & Kütüphaneler**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -66,11 +68,22 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 
 ---
 
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true" />
+</p>
+
 ---
 
 ### 📫 İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/zaylmzdr" target="_blank">
+  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:eposta@ornek.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
