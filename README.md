@@ -1,36 +1,42 @@
-# zaylmzdr
 <h1 align="center">Merhaba, Ben Zemzem 👋</h1>
-<h3 align="center">QA & Test Automation Engineer | Software Engineer | AI & ML Meraklısı </h3>
+<h3 align="center">QA & Test Automation Engineer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  Bilgisayar Mühendisliği mezunu, yazılım kalitesi ve test otomasyonu üzerine uzmanlaşmaya odaklanan bir mühendisim.
-  Testinium bünyesinde staj deneyimim ve AI/ML tabanlı projelerimle hem test hem de geliştirme tarafında güçlü bir teknik altyapıya sahibim.
+  Bilgisayar Mühendisliği mezunuyum ve hem <b>yazılım kalitesi / test otomasyonu</b> hem de <b>yapay zeka</b> alanlarında
+  kariyer fırsatları arıyorum. Testinium bünyesindeki staj deneyimim test tarafındaki uzmanlığımı,
+  HealCode gibi AI destekli projelerim ise makine öğrenmesi ve yapay zeka alanındaki tutkumu yansıtıyor.
 </p>
 
 ---
 
 ### 🎯 Şu An Üzerinde Çalıştığım Konular
+
 - 🔍 Python + Pytest + Requests ile **API Test Otomasyonu** projesi geliştiriyorum
+- 🤖 Yapay zeka destekli sistemler üzerine (multi-agent mimariler, LLM entegrasyonları) çalışmalar yapıyorum
 - 📜 **ISTQB Foundation Level** sertifikasyonuna hazırlanıyorum
-- 🚀 QA / Test Automation ve AI Engineer pozisyonları için fırsat arıyorum
+- 🚀 Hem **QA / Test Automation Engineer** hem de **AI/ML Engineer** pozisyonları için fırsat arıyorum
 
 ---
 
 ### 🛠️ Öne Çıkan Projeler
 
 #### 🩺 [HealCode](#) — Self-Healing AI Code Editor
+
 Çoklu ajan mimarisiyle çalışan, kod hatalarını otomatik tespit edip düzeltebilen yapay zeka destekli bir kod editörü. Bitirme projesi.
 `Python` `FastAPI` `LangGraph` `Monaco Editor` `Electron`
 
 #### 🧠 Beyin Tümörü Sınıflandırma (CNN)
+
 Evrişimsel sinir ağı (CNN) kullanarak MR görüntülerinden tümör tespiti yapan, Grad-CAM ile görselleştirilebilir model.
 `Python` `PyTorch` `Grad-CAM`
 
 #### 😊 Gerçek Zamanlı Yüz Duygu Analizi
+
 Kamera görüntüsü üzerinden anlık duygu durumu tespiti yapan bilgisayarlı görü uygulaması.
 `Python` `OpenCV` `Deep Learning`
 
 #### 💬 Firebase Tabanlı Mesajlaşma Uygulaması
+
 Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 `Android` `Java/Kotlin` `Firebase`
 
@@ -62,9 +68,22 @@ Android platformunda gerçek zamanlı mesajlaşma özellikli mobil uygulama.
 
 ---
 
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true" />
+</p>
+
+---
+
 ### 📫 İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/zaylmzdr in/" target="_blank">
+  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:eposta@ornek.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
